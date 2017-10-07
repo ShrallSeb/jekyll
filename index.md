@@ -1,5 +1,13 @@
+---
+title: Page d'accueil
+description: Ma description
+author: Moi-meyme
+---
+
 # jekyll
+
 Paris Web 2017
+
 ## Gros patapouf
 
 Texte *italique* _italique_ **gras** __gras__ 
