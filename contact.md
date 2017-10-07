@@ -1,4 +1,4 @@
-## The Gang
+# The Gang
 
 Fred
 Oli
