@@ -23,6 +23,8 @@ Et voici **du texte en gras _italique_ mon gros pépère !**
 {% endfor %}
 </ul>
 
+Yo
+
 <ul>
 {% for post in site.posts %}
   <li><a href="{{ post.title }}">{{ post.title }}</a></li>
