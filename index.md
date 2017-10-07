@@ -19,7 +19,7 @@ Et voici **du texte en gras _italique_ mon gros pépère !**
 
 <ul>
 {% for page in site.html_pages %}
-  <li><a href="{{ page.base-url }}">{{ page.title }}</a></li>
+  <li><a href="{{ page.url }}">{{ page.title }}</a></li>
 {% endfor %}
 </ul>
 
