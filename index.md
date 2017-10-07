@@ -1,6 +1,5 @@
 ---
-title:"Mon premier Jekyll"
-title-page:"Ma première page sur Mon premier Jekyll"
+
 ---
 
 # jekyll
