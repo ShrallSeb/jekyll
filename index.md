@@ -16,3 +16,9 @@ Et voici **du texte en gras _italique_ mon gros pépère !**
 
 {{ site.title }}
 <h1>{{ page.title }}</h1>
+
+<ul>
+{% for page in site.pages %}
+  <li>{{ page.title }}</li>
+{% endfor %}
+</ul>
