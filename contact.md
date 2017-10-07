@@ -3,3 +3,10 @@
 Fred
 Oli
 Seb
+
+
+<ul>
+{% for page in site.html_pages %}
+  <li><a href="{{ site.baseurl }}{{ page.url }}">{{ page.title }}</a></li>
+{% endfor %}
+</ul>
